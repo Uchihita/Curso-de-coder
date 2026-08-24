@@ -1,5 +1,4 @@
-Elegi red interna porque considero que no era necesaria la conexion a internet en este tipo de actividad por lo que es generar un riesgo innecesario.
-Markdown 
-
-![Captura de pantalla1](https://github.com/Uchihita/Curso-de-coder/blob/main/Captura1.png?raw=true) 
-![Captura de pantalla2](https://github.com/Uchihita/Curso-de-coder/blob/main/Captura2.png?raw=true)
+# Curso-de-coder
+Es un repositorio que uso para subir actividades de mi curso de ciberseguridad en coderhouse.
+Markdown
+<img width="979" height="746" alt="Captura2" src="https://github.com/user-attachments/assets/28399e7d-ad7f-4bb8-a238-2d0734dc4417" />
