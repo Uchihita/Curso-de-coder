@@ -23,4 +23,5 @@ Es importante tener siempre el sistema actualizado por lo mismo que el de window
 
 Captura del Snapshot:
 Es importante tener una instantanea lista con el hardering hecho para que quede como un checkpoint seguro para volver ahi si algo sale mal, a partir de ya haberlo hecho, uno ya puede experimentar con la maquina virtual sin miedo porque siempre puede volver al Snapshot
+
 <img width="522" height="328" alt="image" src="https://github.com/user-attachments/assets/ae91b9dc-8f5f-46d5-9f8d-94894d80632a" />
