@@ -3,6 +3,7 @@ Juan Pablo Nuesch
 
 Elegi el modo NAT porque para este ejercicio en particular necesito hacer un hardering basico y para eso se necesita la coneccion a internet, a su vez el modo NAT le otorga esa "tranquilidad" al usuario de que por mas que
 puede conectarse a internet, desde afuera de la maquina virtual, no pueden ver hacia adentro.
+
 <img width="967" height="751" alt="image" src="https://github.com/user-attachments/assets/6268e425-e661-49c1-b6b0-74cbdeaefa2e" />
 
 Captura de cuentas de usuario:
@@ -17,14 +18,17 @@ Adjunto imagen del momento previo a crear el usuario y otra ya con el usuario es
 
 Windonds update: 
 Es importante tener el equipo siempre actualizado porque las actualizaciones suelen traer soluciones a vulnerabilidades del sistema, por lo tanto es inseguro no actualizarlo.
+
 <img width="553" height="178" alt="image" src="https://github.com/user-attachments/assets/8dd2518e-87ac-46bc-8912-27df91a17e68" />
 
 Permisos del archivo:
 Es importante tener los archivos importantes con los permisos pertinentes para que otro usuario no pueda acceder a los mismos o si lo hace, que lo haga con el permiso del dueño del archivo.
+
 <img width="681" height="545" alt="image" src="https://github.com/user-attachments/assets/331c9773-0e38-4673-89fc-e53e8fa47dac" />
 
 Buscar actualizaciones de paquetes: 
 Es importante tener siempre el sistema actualizado por lo mismo que el de windows, porque cuando lo actualizan suelen parchear vulnerabilidades y desde linux la forma de hacerlo es con ese comando de sudo apt update
+
 <img width="668" height="543" alt="image" src="https://github.com/user-attachments/assets/214bbf34-133c-4058-9720-3656b4ef3d91" />
 
 Captura del Snapshot:
